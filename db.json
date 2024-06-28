@@ -1,0 +1,182 @@
+{
+    "videos": [
+      {
+        "caption": "illuminati",
+        "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+        "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+        "id": 1
+      },
+      {
+        "caption": "Arabic kuthu",
+        "image": "https://i.ytimg.com/vi/KUN5Uf9mObQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/embed/KUN5Uf9mObQ",
+        "id": 2
+      },
+      {
+        "caption": "Sajni re",
+        "image": "https://static.mirchi.in/thumb/imgsize-24138,msid-107621504,width-800,height-450,resizemode-1/107621504.jpg",
+        "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+        "id": 3
+      },
+      {
+        "caption": "My Heart will Go on",
+        "image": "https://facts.net/wp-content/uploads/2023/06/37-facts-about-the-movie-titanic-1687656865.jpg",
+        "url": "https://www.youtube.com/embed/F2RnxZnubCM",
+        "id": 4
+      },
+      {
+        "caption": "Unakku thaan",
+        "image": "https://i.ytimg.com/vi/bui3q02NK8Y/maxresdefault.jpg",
+        "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+        "id": 5
+      },
+      {
+        "caption": "Pahle bhi main",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/ed/d2/90edd23e-ff5e-d28a-903e-ec553da60321/8903431981578_cover.jpg/1200x1200bb.jpg",
+        "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+        "id": 6
+      },
+      {
+        "caption": "Love me like you do",
+        "image": "https://i1.sndcdn.com/artworks-000111465551-7krzdh-t500x500.jpg",
+        "url": "https://www.youtube.com/embed/dAuWUxyhphY",
+        "id": 7
+      },
+      {
+        "caption": "Neela Nilave",
+        "image": "https://m.timesofindia.com/photo/103197447/size-182005/103197447.jpg",
+        "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+        "id": 8
+      }
+    ],
+    "category": [
+      {
+        "CategoryName": "Hindi Songs",
+        "allVideo": [
+          {
+            "caption": "Sajni re",
+            "image": "https://static.mirchi.in/thumb/imgsize-24138,msid-107621504,width-800,height-450,resizemode-1/107621504.jpg",
+            "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+            "id": 3
+          },
+          {
+            "caption": "Pahle bhi main",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/ed/d2/90edd23e-ff5e-d28a-903e-ec553da60321/8903431981578_cover.jpg/1200x1200bb.jpg",
+            "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+            "id": 6
+          }
+        ],
+        "id": 1
+      },
+      {
+        "CategoryName": "Tamil Songs",
+        "allVideo": [
+          {
+            "caption": "Unakku thaan",
+            "image": "https://i.ytimg.com/vi/bui3q02NK8Y/maxresdefault.jpg",
+            "url": "https://www.youtube.com/embed/bui3q02NK8Y",
+            "id": 5
+          },
+          {
+            "caption": "Arabic kuthu",
+            "image": "https://i.ytimg.com/vi/KUN5Uf9mObQ/maxresdefault.jpg",
+            "url": "https://www.youtube.com/embed/KUN5Uf9mObQ",
+            "id": 2
+          }
+        ],
+        "id": 2
+      },
+      {
+        "CategoryName": "Malayalam Songs",
+        "allVideo": [
+          {
+            "caption": "Neela Nilave",
+            "image": "https://m.timesofindia.com/photo/103197447/size-182005/103197447.jpg",
+            "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+            "id": 8
+          },
+          {
+            "caption": "illuminati",
+            "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+            "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+            "id": 1
+          }
+        ],
+        "id": 3
+      },
+      {
+        "CategoryName": "English Songs",
+        "allVideo": [
+          {
+            "caption": "Love me like you do",
+            "image": "https://i1.sndcdn.com/artworks-000111465551-7krzdh-t500x500.jpg",
+            "url": "https://www.youtube.com/embed/dAuWUxyhphY",
+            "id": 7
+          },
+          {
+            "caption": "My Heart will Go on",
+            "image": "https://facts.net/wp-content/uploads/2023/06/37-facts-about-the-movie-titanic-1687656865.jpg",
+            "url": "https://www.youtube.com/embed/F2RnxZnubCM",
+            "id": 4
+          }
+        ],
+        "id": 4
+      }
+    ],
+    "history": [
+      {
+        "caption": "Sajni re",
+        "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+        "timeStamp": "20/06/2024, 09:49:33",
+        "id": 1
+      },
+      {
+        "caption": "Arabic kuthu",
+        "url": "https://www.youtube.com/embed/KUN5Uf9mObQ",
+        "timeStamp": "20/06/2024, 11:03:10",
+        "id": 2
+      },
+      {
+        "caption": "Titanic",
+        "url": "https://www.youtube.com/embed/F2RnxZnubCM",
+        "timeStamp": "24/06/2024, 09:20:59",
+        "id": 3
+      },
+      {
+        "caption": "Sajni re",
+        "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+        "timeStamp": "25/06/2024, 23:16:36",
+        "id": 4
+      },
+      {
+        "caption": "Sajni re",
+        "url": "https://www.youtube.com/embed/k3g_WjLCsXM",
+        "timeStamp": "25/06/2024, 23:16:40",
+        "id": 5
+      },
+      {
+        "caption": "My Heart will Go on",
+        "url": "https://www.youtube.com/embed/F2RnxZnubCM",
+        "timeStamp": "25/06/2024, 23:16:44",
+        "id": 6
+      },
+      {
+        "caption": "My Heart will Go on",
+        "url": "https://www.youtube.com/embed/F2RnxZnubCM",
+        "timeStamp": "25/06/2024, 23:17:08",
+        "id": 7
+      },
+      {
+        "caption": "illuminati",
+        "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+        "timeStamp": "25/06/2024, 23:17:12",
+        "id": 8
+      },
+      {
+        "caption": "Arabic kuthu",
+        "url": "https://www.youtube.com/embed/KUN5Uf9mObQ",
+        "timeStamp": "25/06/2024, 23:17:17",
+        "id": 9
+      }
+    ]
+  }
